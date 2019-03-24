@@ -50,6 +50,7 @@ Domino’s Pizza Checker
 Благодаря ноу-хау стало возможным более точное формирование целевых показателей и мотивационных программ как для пиццамейкеров и сотрудников ресторанов, так и для руководителей всех уровней.
 
 Источники:
+- [видео](https://www.youtube.com/watch?v=kvyw3S63Uag)
 - [upakovano.ru](http://upakovano.ru/)
 - [franshiza.ru](<https://franshiza.ru/news/read/papa_dzhons_ocenit_kachestvo_piccy_po_unikalnoj_tekhnologii/>)
 
