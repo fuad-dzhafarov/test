@@ -98,7 +98,7 @@ Flippy способен пожарить две тысячи котлет в д�
 
 Источники:
 - [Видео](<https://www.youtube.com/watch?v=KJVOfqunm5E>)
-
+- [techcrunch.com](https://techcrunch.com/2017/03/07/meet-flippy-a-burger-grilling-robot-from-miso-robotics-and-caliburger/)
 
 
 ### AI в производственных компаниях в общепите
