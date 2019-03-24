@@ -22,10 +22,10 @@ Zume Pizza использует роботов стоимостью от $25 т�
 
 Для прогнозирования количества заказов используется ИИ. Утром алгоритм сканирует данные о погоде и о разных событиях (например, премьера популярного сериала), после чего пиццу частично готовят в Zume и передают в фургоны. Как только клиент делает заказ, пицца допекается в мобильной печи, а фургон доставляет ее заказчикам. В каждой машине установлены десятки портативных печей, где можно запечь сотни заготовок. Горячую пиццу привезут за 20 минут. С помощью они смогут оперативно организовать раздачу еды в тех точках, где спрос выше
 
-
-[fabernovel.com](https://en.fabernovel.com/insights/tech-en/when-pizzas-meet-ai)
-
-[theverge.com](<https://www.theverge.com/2017/6/28/15882852/zume-pizza-doughboy-robot-automation-future-food-delivery>)
+Источники:
+- [видео](https://www.youtube.com/watch?v=gADg90GQ-zE)
+- [fabernovel.com](https://en.fabernovel.com/insights/tech-en/when-pizzas-meet-ai)
+- [theverge.com](<https://www.theverge.com/2017/6/28/15882852/zume-pizza-doughboy-robot-automation-future-food-delivery>)
 
 
 
@@ -34,10 +34,9 @@ Zume Pizza использует роботов стоимостью от $25 т�
 Компания использует 
 
 Domino’s Pizza Checker
-
-[dominos.com](<https://newsroom.dominos.com.au/home/2017/12/27/say-cheese-dominos-new-ai-camera-technology-helps-solve-customers-number-one-frustration>)
-
-[networkworld.com](<https://www.networkworld.com/article/3175038/how-dominos-pizza-is-using-ai-to-enhance-the-customer-experience.html>)
+Источники:
+- [dominos.com](<https://newsroom.dominos.com.au/home/2017/12/27/say-cheese-dominos-new-ai-camera-technology-helps-solve-customers-number-one-frustration>)
+- [networkworld.com](<https://www.networkworld.com/article/3175038/how-dominos-pizza-is-using-ai-to-enhance-the-customer-experience.html>)
 
 
 
@@ -49,7 +48,8 @@ Domino’s Pizza Checker
 
 После получения заказа, первая роботизированная рука открывает холодильник, берет нужную заготовку и перемещает на конвейерную ленту печи. Когда приготовление закончено, вторая роботизированная рука берет пиццу, перемещает на разделочную доску, нарезает на 6 ломтиков и помещает в коробку. После этого водитель может взять пиццу и передать ее клиенту. 
 
-[hi-news.ru](https://hi-news.ru/technology/video-pizza-hut-i-toyota-predstavili-robota-kotoryj-budet-gotovit-piccu-pryamo-vo-vremya-dostavki.html)
+Источники:
+- [hi-news.ru](https://hi-news.ru/technology/video-pizza-hut-i-toyota-predstavili-robota-kotoryj-budet-gotovit-piccu-pryamo-vo-vremya-dostavki.html)
 
 
 
@@ -63,9 +63,9 @@ Domino’s Pizza Checker
 
 Благодаря ноу-хау стало возможным более точное формирование целевых показателей и мотивационных программ как для пиццамейкеров и сотрудников ресторанов, так и для руководителей всех уровней.
 
-[upakovano.ru](http://upakovano.ru/)
-
-[franshiza.ru](<https://franshiza.ru/news/read/papa_dzhons_ocenit_kachestvo_piccy_po_unikalnoj_tekhnologii/>)
+Источники:
+- [upakovano.ru](http://upakovano.ru/)
+- [franshiza.ru](<https://franshiza.ru/news/read/papa_dzhons_ocenit_kachestvo_piccy_po_unikalnoj_tekhnologii/>)
 
 
 
@@ -87,12 +87,10 @@ KFC в качестве эксперимента начала использов
 
 Компания объясняет, что ее система может предложить мужчине в возрасте 20+ лет меню, в которое входит чикен-гамбургер, обжаренные куриные крылышки и сок для ланча. А вот 50-летней женщине та же система может предложить на завтрак кашу и соевое молоко.   
 
-
-[Видео](<https://www.youtube.com/watch?v=ZfqXC5g_UyI>)
-
-[«Умный ресторан» KFC в Китае по лицу угадывает предпочтения посетителей](<https://habr.com/ru/post/400351/>)
-
-[Baidu and KFC's new smart restaurant suggests what to order based on your face](https://techcrunch.com/2016/12/23/baidu-and-kfcs-new-smart-restaurant-suggests-what-to-order-based-on-your-face/)
+Источники:
+- [Видео](<https://www.youtube.com/watch?v=ZfqXC5g_UyI>)
+- [habr.com](<https://habr.com/ru/post/400351/>)
+- [techcrunch.com](https://techcrunch.com/2016/12/23/baidu-and-kfcs-new-smart-restaurant-suggests-what-to-order-based-on-your-face/)
 
 
 
@@ -102,9 +100,11 @@ KFC в качестве эксперимента начала использов
 
 Flippy способен пожарить две тысячи котлет в день. Он не допускает подгорания или недожаривания, мгновенно принимает заказы с кассы и учится на своих ошибках. 
 
+Источники:
+- [Видео](<https://www.youtube.com/watch?v=KJVOfqunm5E>)
 ![techcrunch.com](https://3dnews.ru/assets/external/illustrations/2017/03/09/948840/sm.flippy_computer_vision_miso_robotics.750.png)
 
- [Видео](<https://www.youtube.com/watch?v=KJVOfqunm5E>) 
+ 
 
 
 
