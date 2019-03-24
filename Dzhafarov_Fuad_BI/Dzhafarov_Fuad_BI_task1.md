@@ -26,9 +26,9 @@ Zume Pizza использует роботов стоимостью от $25 т�
 
 
 
-[When Pizzas Meet AI](https://en.fabernovel.com/insights/tech-en/when-pizzas-meet-ai)
+[fabernovel.com](https://en.fabernovel.com/insights/tech-en/when-pizzas-meet-ai)
 
-[Zume's robot pizzeria could be the future of workplace automation](<https://www.theverge.com/2017/6/28/15882852/zume-pizza-doughboy-robot-automation-future-food-delivery>)
+[theverge.com](<https://www.theverge.com/2017/6/28/15882852/zume-pizza-doughboy-robot-automation-future-food-delivery>)
 
 
 
@@ -38,9 +38,9 @@ Zume Pizza использует роботов стоимостью от $25 т�
 
 Domino’s Pizza Checker
 
-<https://newsroom.dominos.com.au/home/2017/12/27/say-cheese-dominos-new-ai-camera-technology-helps-solve-customers-number-one-frustration>
+[dominos.com](<https://newsroom.dominos.com.au/home/2017/12/27/say-cheese-dominos-new-ai-camera-technology-helps-solve-customers-number-one-frustration>)
 
-<https://www.networkworld.com/article/3175038/how-dominos-pizza-is-using-ai-to-enhance-the-customer-experience.html>
+[networkworld.com](<https://www.networkworld.com/article/3175038/how-dominos-pizza-is-using-ai-to-enhance-the-customer-experience.html>)
 
 
 
@@ -52,7 +52,7 @@ Domino’s Pizza Checker
 
 После получения заказа, первая роботизированная рука открывает холодильник, берет нужную заготовку и перемещает на конвейерную ленту печи. Когда приготовление закончено, вторая роботизированная рука берет пиццу, перемещает на разделочную доску, нарезает на 6 ломтиков и помещает в коробку. После этого водитель может взять пиццу и передать ее клиенту. 
 
-[Pizza Hut и Toyota представили робота, который будет готовить пиццу прямо во время доставки](https://hi-news.ru/technology/video-pizza-hut-i-toyota-predstavili-robota-kotoryj-budet-gotovit-piccu-pryamo-vo-vremya-dostavki.html)
+[hi-news.ru](https://hi-news.ru/technology/video-pizza-hut-i-toyota-predstavili-robota-kotoryj-budet-gotovit-piccu-pryamo-vo-vremya-dostavki.html)
 
 
 
@@ -68,7 +68,7 @@ Domino’s Pizza Checker
 
 [upakovano.ru](http://upakovano.ru/)
 
-["Папа Джонс" оценит качество пиццы по уникальной технологии](<https://franshiza.ru/news/read/papa_dzhons_ocenit_kachestvo_piccy_po_unikalnoj_tekhnologii/>)
+[franshiza.ru](<https://franshiza.ru/news/read/papa_dzhons_ocenit_kachestvo_piccy_po_unikalnoj_tekhnologii/>)
 
 
 
@@ -89,7 +89,6 @@ KFC в качестве эксперимента начала использов
 На основе всей полученной информации нейросеть старается предложить блюда, которые могли бы понравиться конкретному посетителю. То есть цель проекта — обеспечить персонализированные подборки блюд для всех посетителей. Если клиент — частый гость KFC, то компьютерная система анализирует предыдущие заказы пользователя, «смотрит», что человек заказывал во время предыдущих посещений и предлагает выбор блюд на основе предпочтений этого посетителя. 
 
 Компания объясняет, что ее система может предложить мужчине в возрасте 20+ лет меню, в которое входит чикен-гамбургер, обжаренные куриные крылышки и сок для ланча. А вот 50-летней женщине та же система может предложить на завтрак кашу и соевое молоко.   
-
 
 
 [Видео](<https://www.youtube.com/watch?v=ZfqXC5g_UyI>)
